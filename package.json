@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Swayam Prakash Bhuyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
