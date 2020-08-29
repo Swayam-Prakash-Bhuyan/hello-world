@@ -1,1 +1,1 @@
-console.log('greetings from hello.js');
+module.exports = 'greetings from hello.js';
